@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.logoName {
+  display: flex;
+  align-items: center;
+  width: 20%;
+}
+.currencyLogo {
+  width: 24px;
+  height: 24px;
+  border-radius: 12px;
+  margin-right: 8px;
+}
+.backgroundColor {
+  background-color: black;
+  color: white;
+}

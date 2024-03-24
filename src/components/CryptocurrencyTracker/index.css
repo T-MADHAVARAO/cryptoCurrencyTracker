@@ -1,0 +1,7 @@
+/* Write your CSS here */
+.bg {
+  background-color: black;
+  width: 100vw;
+  min-height: 100vh;
+  max-height: none;
+}
